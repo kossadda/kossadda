@@ -66,6 +66,9 @@
     <a href="https://www.qt.io/">
       <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
     </a>
+    <a href="https://www.linux.org/">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </a>
     <a href="https://github.com/features/actions">
       <img src="https://img.shields.io/badge/CICD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
     </a>
