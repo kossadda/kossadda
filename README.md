@@ -132,8 +132,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/kossadda/s21_CICD">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_CICD&theme=bear" />
+        <a href="https://github.com/kossadda/s21_math">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=bear" />
         </a>
       </td>
     </tr>
@@ -144,8 +144,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/kossadda/s21_math">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=bear" />
+        <a href="https://github.com/kossadda/s21_CICD">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_CICD&theme=bear" />
         </a>
       </td>
       <!-- <td colspan="2" align="center">
