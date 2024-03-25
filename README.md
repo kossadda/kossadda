@@ -51,19 +51,17 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/kossadda">
-          <img height="200" src="https://github-readme-stats.vercel.app/api?username=kossadda&theme=dracula" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=kossadda&theme=dark" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/kossadda">
-          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=440&theme=dracula" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=440&theme=dark" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=kossadda&theme=darcula&card_width=600" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=kossadda&theme=dark&card_width=600" />
       </td>
     </tr>
   </table>
