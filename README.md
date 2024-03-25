@@ -1,7 +1,10 @@
+<!-- Приветствие -->
+
 <h1 align="center">Hi there, I'm <a href="https://github.com/kossadda" target="_blank">Pervin</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">School 21 student from Surgut (Russia) <img src="https://usagif.com/wp-content/uploads/gifs/russian-flag-6.gif" alt="Russian flag" width="32" height="16"></h3>
 
+<!-- Контакты -->
 <div align="center">
   <h3>Contact with me:</h3>
   <table>
@@ -44,6 +47,44 @@
   </table>
 </div>
 
+<!-- Языки и инструменты -->
+<p align="center">
+  <h3 align="center">Languages and Tools</h3>
+  <p>
+    <a href="https://www.cprogramming.com/">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    </a>
+    <a href="https://www.cplusplus.com/">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    </a>
+    <a href="https://www.gnu.org/software/bash/">
+      <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    </a>
+    <a href="https://www.postgresql.org/">
+      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </a>
+    <a href="https://www.qt.io/">
+      <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
+    </a>
+    <a href="https://github.com/features/actions">
+      <img src="https://img.shields.io/badge/CICD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    </a>
+    <a href="https://grafana.com/">
+      <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+    </a>
+    <a href="https://prometheus.io/">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
+    </a>
+    <a href="https://www.docker.com/">
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+    <a href="https://cmake.org/">
+      <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
+    </a>
+  </p>
+</p>
+
+<!-- Статистика -->
 <p align="center">
   <h3 align="center">My GitHub Statistic</h3>
   <table>
@@ -65,6 +106,7 @@
   </table>
 </p>
 
+<!-- Репозитории -->
 <p align="center">
   <h3 align="center">My Repositories</h3>
   <table>
