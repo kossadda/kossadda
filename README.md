@@ -15,11 +15,16 @@
 
 <div style="text-align: center;">
   <h3>My GitHub Statistic</h3>
-  <a href="https://github.com/kossadda">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=kossadda&theme=dracula" />
-  </a>
-  <a href="https://github.com/kossadada">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=440&theme=dracula" />
-  </a>
+  <div style="display: inline-block; width: 350px;">
+    <a href="https://github.com/kossadda">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=kossadda&theme=dracula" />
+    </a>
+  </div>
+  <div style="display: inline-block; width: 350px;">
+    <a href="https://github.com/kossadada">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=440&theme=dracula" />
+    </a>
+  </div>
 </div>
+
 
