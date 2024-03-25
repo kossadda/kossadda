@@ -51,17 +51,17 @@
   <table>
     <tr>
       <td align="center">
-          <img height="200" src="https://github-readme-stats.vercel.app/api?username=kossadda&theme=light" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=kossadda&theme=bear" />
         </a>
       </td>
       <td align="center">
-          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=440&theme=light" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=440&theme=bear" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=kossadda&theme=light&card_width=950" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=kossadda&theme=bear&card_width=950" />
       </td>
     </tr>
   </table>
