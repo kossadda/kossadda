@@ -19,7 +19,7 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=425&theme=dracula" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=435&theme=dracula" />
   </a>
 </div>
 
