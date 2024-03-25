@@ -66,6 +66,9 @@
     <a href="https://www.qt.io/">
       <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
     </a>
+    <a href="https://cmake.org/">
+      <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
+    </a>
     <a href="https://www.linux.org/">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </a>
@@ -80,9 +83,6 @@
     </a>
     <a href="https://www.docker.com/">
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-    </a>
-    <a href="https://cmake.org/">
-      <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
     </a>
   </p>
 </p>
@@ -138,11 +138,21 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center">
+        <a href="https://github.com/kossadda/s21_SQL">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_SQL&theme=bear" />
+        </a>
+      </td>
+      <td align="center">
         <a href="https://github.com/kossadda/s21_math">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=bear" />
         </a>
       </td>
+      <!-- <td colspan="2" align="center">
+        <a href="https://github.com/kossadda/s21_math">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=bear" />
+        </a>
+      </td> -->
     </tr>
   </table>
 </p>
