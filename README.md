@@ -61,6 +61,11 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=kossadda&theme=darcula&card_width=600" />
+      </td>
+    </tr>
   </table>
 </p>
 
