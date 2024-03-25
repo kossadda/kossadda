@@ -15,11 +15,11 @@
 
 <div style="text-align: center;">
   <h3>My GitHub Statistic</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula" />
+  <a href="https://github.com/kossadda">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=kossadda&theme=dracula" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=435&theme=dracula" />
+  <a href="https://github.com/kossadada">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=450&theme=dracula" />
   </a>
 </div>
 
