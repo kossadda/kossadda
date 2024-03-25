@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/kossadda" target="_blank">Pervin</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">School 21 student from Surgut (Russia 🇷🇺)</h3>
+<h3 align="center">School 21 student from Surgut, Russia 🇷🇺</h3>
 
 <div align="center">
-  <br>
+
   <h3>Contact with me:</h3>
   <a href="https://t.me/kossadda">
     <img src="https://tradingviewto.com/uploads/default/original/1X/4142023febe4a80eb3ab7328de6163fd5c1c6f4f.png" alt="Telegram logo" height="32"/>
