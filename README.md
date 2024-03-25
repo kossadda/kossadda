@@ -19,7 +19,7 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=kossadda&theme=dracula" />
   </a>
   <a href="https://github.com/kossadada">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=450&theme=dracula" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=440&theme=dracula" />
   </a>
 </div>
 
