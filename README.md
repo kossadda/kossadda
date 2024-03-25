@@ -3,21 +3,48 @@
 <h3 align="center">School 21 student from Surgut (Russia 🇷🇺)</h3>
 
 <div align="center">
-  <h3>Contact with me:</h3>
-    <a href="mailto:gabilov1997@gmail.com" style="display: flex; align-items: center; justify-content: center; color: #3c8dcb; text-decoration: none;">
-    <img src="https://logo-base.com/logo/gmail_logo_icon.png" alt="Gmail logo" width="32" height="32" style="margin-right: 5px;">
-    <span style="font-size: 18px;">gabilov1997@gmail.com</span>
-  </a>
-</div>
-<div align="center">
   <br>
-  <a href="https://t.me/kossadda">
-    <img src="https://tradingviewto.com/uploads/default/original/1X/4142023febe4a80eb3ab7328de6163fd5c1c6f4f.png" alt="Telegram logo" height="32"/>
-  </a>
-  <a href="https://vk.com/deadline971">
-    <img src="https://ob-ulyanovsk.ru/images/vk.png" alt="VK logo" height="32"/>
-  </a>
+  <h3>Contact with me:</h3>
+  <table>
+    <tr>
+      <td>
+        <a href="https://t.me/kossadda" target="_blank" style="text-decoration: none;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram logo" width="40" height="32">
+        </a>
+      </td>
+      <td>
+        <a href="https://t.me/kossadda" target="_blank" style="text-decoration: none;">
+          <span style="font-size: 18px; vertical-align: middle;">@kossadda</span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://vk.com/kossadda" target="_blank" style="text-decoration: none;">
+          <img src="https://ob-ulyanovsk.ru/images/vk.png" alt="VK logo" width="40" height="32">
+        </a>
+      </td>
+      <td>
+        <a href="https://vk.com/kossadda" target="_blank" style="text-decoration: none;">
+          <span style="font-size: 18px; vertical-align: middle;">kossadda</span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="mailto:gabilov1997@gmail.com" style="text-decoration: none;">
+          <img src="https://logo-base.com/logo/gmail_logo_icon.png" alt="Gmail logo" width="40" height="32">
+        </a>
+      </td>
+      <td>
+        <a href="mailto:gabilov1997@gmail.com" style="text-decoration: none;">
+          <span style="font-size: 18px; vertical-align: middle;">gabilov1997@gmail.com</span>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <p align="center">
   <h3 align="center">My GitHub Statistic</h3>
