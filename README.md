@@ -93,17 +93,17 @@
   <table>
     <tr>
       <td align="center">
-          <img height="200" src="https://github-readme-stats.vercel.app/api?username=kossadda&theme=bear" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=kossadda&theme=nightowl" />
         </a>
       </td>
       <td align="center">
-          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=440&theme=bear" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=kossadda&layout=compact&langs_count=8&card_width=440&theme=nightowl" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=kossadda&theme=bear&card_width=950" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=kossadda&theme=nightowl&card_width=950" />
       </td>
     </tr>
   </table>
@@ -116,41 +116,41 @@
     <tr>
       <td align="center">
         <a href="https://github.com/kossadda/SmartCalc_v1.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=SmartCalc_v1.0&theme=bear" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=SmartCalc_v1.0&theme=nightowl" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/kossadda/LinuxMonitoring_v2.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=LinuxMonitoring_v2.0&theme=bear" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=LinuxMonitoring_v2.0&theme=nightowl" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/kossadda/s21_decimal">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_decimal&theme=bear" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_decimal&theme=nightowl" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/kossadda/s21_math">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=bear" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=nightowl" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/kossadda/s21_SQL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_SQL&theme=bear" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_SQL&theme=nightowl" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/kossadda/s21_CICD">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_CICD&theme=bear" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_CICD&theme=nightowl" />
         </a>
       </td>
       <!-- <td colspan="2" align="center">
         <a href="https://github.com/kossadda/s21_math">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=bear" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=nightowl" />
         </a>
       </td> -->
     </tr>
