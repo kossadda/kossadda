@@ -120,20 +120,20 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/kossadda/LinuxMonitoring_v2.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=LinuxMonitoring_v2.0&theme=algolia" />
+        <a href="https://github.com/kossadda/BrickGame_v1.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=BrickGame_v1.0&theme=algolia" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/kossadda/s21_decimal">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_decimal&theme=algolia" />
+        <a href="https://github.com/kossadda/LinuxMonitoring_v2.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=LinuxMonitoring_v2.0&theme=algolia" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/kossadda/s21_math">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=algolia" />
+        <a href="https://github.com/kossadda/s21_decimal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_decimal&theme=algolia" />
         </a>
       </td>
     </tr>
@@ -148,11 +148,13 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_CICD&theme=algolia" />
         </a>
       </td>
-      <!-- <td colspan="2" align="center">
+    </tr>
+    <tr>
+      <td colspan="2" align="left">
         <a href="https://github.com/kossadda/s21_math">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=algolia" />
         </a>
-      </td> -->
+      </td>
     </tr>
   </table>
 </p>
