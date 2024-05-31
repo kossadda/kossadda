@@ -23,7 +23,7 @@
     <tr>
       <td>
         <a href="https://vk.com/kossadda" target="_blank" style="text-decoration: none;">
-          <img src="https://ob-ulyanovsk.ru/images/vk.png" alt="VK logo" width="40" height="32">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK logo" width="40" height="32">
         </a>
       </td>
       <td>
