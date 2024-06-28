@@ -115,6 +115,13 @@
   <table>
     <tr>
       <td align="center">
+        <a href="https://github.com/kossadda/3DViewer_v1.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=3DViewer_v1.0&theme=algolia" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://github.com/kossadda/SmartCalc_v1.0">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=SmartCalc_v1.0&theme=algolia" />
         </a>
@@ -160,11 +167,6 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_matrix_plus&theme=algolia" />
         </a>
       </td>
-      <!-- <td colspan="2" align="left">
-        <a href="https://github.com/kossadda/s21_math">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_math&theme=algolia" />
-        </a>
-      </td> -->
     </tr>
   </table>
 </p>
