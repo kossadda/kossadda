@@ -35,7 +35,7 @@
     <tr>
       <td>
         <a href="mailto:gabilov1997@gmail.com" style="text-decoration: none;">
-          <img src="https://logo-base.com/logo/gmail_logo_icon.png" alt="Gmail logo" width="40" height="32">
+          <img src="https://freelogopng.com/images/all_img/1657906274logo-gmail-png.png" alt="Gmail logo" width="40" height="32">
         </a>
       </td>
       <td>
@@ -68,6 +68,9 @@
     </a>
     <a href="https://cmake.org/">
       <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" />
+    </a>
+    <a href="https://www.opengl.org/">
+      <img src="https://www.opengl.org/img/opengl_logo.jpg" width="80" height="27"/>
     </a>
     <a href="https://www.linux.org/">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -115,20 +118,32 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/kossadda/3DViewer_v1.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=3DViewer_v1.0&theme=algolia" />
+        <a href="https://github.com/kossadda/3DViewer_v2.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=3DViewer_v2.0&theme=algolia" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/kossadda/s21_containers">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_containers&theme=algolia" />
+        <a href="https://github.com/kossadda/SmartCalc_v2.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=SmartCalc_v2.0&theme=algolia" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
+        <a href="https://github.com/kossadda/3DViewer_v1.0">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=3DViewer_v1.0&theme=algolia" />
+        </a>
+      </td>
+      <td align="center">
         <a href="https://github.com/kossadda/SmartCalc_v1.0">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=SmartCalc_v1.0&theme=algolia" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/kossadda/s21_containers">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kossadda&repo=s21_containers&theme=algolia" />
         </a>
       </td>
       <td align="center">
